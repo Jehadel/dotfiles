@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jean.delpech@gmail.com
+	name = Jean Delpech
